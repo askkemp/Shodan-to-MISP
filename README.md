@@ -5,6 +5,7 @@ This is different than other projects that simply load Shodan results into MISP.
 
 The end of this notebook contains example MISP searches.
 
+![](demo.gif)
 
 ### Quick start
 Provide a Shodan search query, just like you would on the Shodan website, and it will conduct a Shodan search. Watch the debug output to see the code progress and go into MISP to see the event as it builds.
